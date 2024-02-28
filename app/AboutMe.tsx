@@ -23,7 +23,7 @@ const AboutMe = () => {
                         <TabsContent value="2">
                             <div className='border-slate-700 border bg-slate-800 bg-opacity-65 w-[80%] m-4 p-2' >
                                 <div className='p-3' >  🧑‍💻 Education</div>
-                                <div className='text-slate-300 px-4 py-2 ' >  <ul><li> Bachelor of Science in Software Engineering | 2023</li></ul> </div>
+                                <div className='text-slate-300 px-4 py-2 ' >  <ul><li> Bachelor of Science in Software Engineering 2023</li></ul> </div>
                                 <div className='text-slate-300 px-4 py-2 ' > PyFlux Nexus</div>
                             </div>
                         </TabsContent>
@@ -32,8 +32,8 @@ const AboutMe = () => {
                                 <div className='p-3' >  🧑‍💻 Resume</div>
                                 <div className='text-slate-300 px-4 py-2 flex gap-2'> <div>Download Resume</div> <img src='/download.png' width={22} className='cursor-pointer' ></img> </div>
                                 <div className='m-auto  text-center items-center flex justify-center ' >
-                        <a href="RESUME.pdf" target='blank' download={true} >
-                        <img className='h-[500px] w-[350px] ' src="/RESUME.pdf" alt="" />
+                        <a href="/My-Resume.png" target='blank' download={true} >
+                        <img className='h-[500px] w-[350px] ' src="/My-Resume.png" alt="" />
                         </a>
                     </div>
                             </div>
