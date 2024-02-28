@@ -22,14 +22,14 @@ const AboutMe = () => {
                         </TabsContent>
                         <TabsContent value="2">
                             <div className='border-slate-700 border bg-slate-800 bg-opacity-65 w-[80%] m-4 p-2' >
-                                <div className='p-3' >  🧑‍💻 Education</div>
+                                <div className='p-3' >Education 🧑🏻‍💻</div>
                                 <div className='text-slate-300 px-4 py-2 ' >  <ul><li> Bachelor of Science in Software Engineering 2023</li></ul> </div>
                                 <div className='text-slate-300 px-4 py-2 ' > PyFlux Nexus</div>
                             </div>
                         </TabsContent>
                         <TabsContent value="3">
                             <div className='border-slate-700 border bg-slate-800 bg-opacity-65 w-[90%] md:m-4 md:p-2' >
-                                <div className='p-3' >  🧑‍💻 Resume</div>
+                                <div className='p-3' >Resume 🧑🏻‍💻</div>
                                 <div className='text-slate-300 px-4 py-2 flex gap-2'> <div>Download Resume</div> <img src='/download.png' width={22} className='cursor-pointer' ></img> </div>
                                 <div className='m-auto  text-center items-center flex justify-center ' >
                         <a href="/My-Resume.png" target='blank' download={true} >
