@@ -26,9 +26,9 @@ export default function Home() {
                       <SheetTitle className='text-slate-400 text-center text-xl'>CONNECT WITH ME</SheetTitle>
                       <SheetDescription className='text-slate-400'>
                       <div className='text-slate-400 flex flex-col  w-[50px] m-auto h-70% justify-evenly   gap-6 ' >
-                        <div><Link target='blank'  href={'https://twitter.com/piyushsainii'}><img src="/twitterWhite.png" className='cursor-pointer mt-8' width={37} alt="" /></Link></div>
-                        <div><Link target='blank' href={'https://github.com/piyushhsainii'}><img src="/githubwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
-                        <div><Link target='blank' href={'https://www.linkedin.com/in/piyush-saini-b860ab1bb/'}> <img src="/linkedinwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
+                        <div><Link target='blank'  href={'https://twitter.com/AliPythonDev'}><img src="/twitterWhite.png" className='cursor-pointer mt-8' width={37} alt="" /></Link></div>
+                        <div><Link target='blank' href={'https://github.com/AliPythonDev'}><img src="/githubwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
+                        <div><Link target='blank' href={'https://www.linkedin.com/in/AliPythonDev'}> <img src="/linkedinwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
                         <div className='h-[100px] border border-white w-[1px] ml-5 ' ></div>
                       </div>
                       </SheetDescription>
@@ -39,9 +39,9 @@ export default function Home() {
               <Content />    
             </div>
             <div className=' flex-col hidden md:flex h-screen justify-center m-5 gap-6  mt-28' >
-              <div><Link target='blank'  href={'https://twitter.com/piyushsainii'}><img src="/twitterWhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
-              <div><Link target='blank' href={'https://github.com/piyushhsainii'}><img src="/githubwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
-              <div><Link target='blank' href={'https://www.linkedin.com/in/piyush-saini-b860ab1bb/'}> <img src="/linkedinwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
+              <div><Link target='blank'  href={'https://twitter.com/AliPythonDev'}><img src="/twitterWhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
+              <div><Link target='blank' href={'https://github.com/AliPythonDev'}><img src="/githubwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
+              <div><Link target='blank' href={'https://www.linkedin.com/in/AliPythonDev'}> <img src="/linkedinwhite.png" className='cursor-pointer' width={37} alt="" /></Link></div>
               <div className='h-[100px] border border-white w-[1px] ml-5 ' ></div>
             </div>
         </div>

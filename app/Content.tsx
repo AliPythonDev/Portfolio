@@ -14,7 +14,7 @@ const Body = () => {
                 <FramerMotionComponent/>
                 <TypeWriterComponent/>
                 <div className=' max-w-[720px] text-slate-200 px-5 p-2 desc-color  text-[13px] md:text-[15px] my-4  ' >
-                    A Full-Stack Developer based in Delhi. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects.
+                    A Full-Stack Developer based in Islamabad. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects.
                 </div>
                 <GitHubCalendarComponent/>
                 <AboutMe />

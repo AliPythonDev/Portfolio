@@ -3,7 +3,7 @@ import React, { Suspense, useRef, useState } from 'react'
 import { motion, useInView } from 'framer-motion';
 
 const FramerMotionComponent = () => {
-    const name = `Piyush Saini`
+    const name = `Ali Nawaz`
  
     const defaultAnimations = {
         hidden: {

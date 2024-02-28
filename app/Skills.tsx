@@ -12,7 +12,7 @@ const Skills = () => {
         },
         {
             imgURL: "/tailwind.png",
-            Name:"Tailwind "
+            Name:"Tailwind CSS"
         },
         {
             imgURL: "/nextjs.png",
