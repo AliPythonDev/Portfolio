@@ -10,7 +10,8 @@ const Work = () => {
                 {/* <Link href={'https://greenmind-store-ecommerce.vercel.app/'}> */}
                     <div className='border-slate-700   border w-[330px] min-h-[300px] h-[505px] m-3 p-1 hover:bg-slate-900 duration-300 transition-all cursor-pointer  ' >
                         <div className='text-[17px] text-slate-300 p-4 pb-2 text-center flex justify-center gap-2 ' >
-                            <span>Stone Paper Scissors </span><span><a target='blank' href="https://stone-paper-scissors-gs4978b1y-ali-nawazs-projects.vercel.app/"><img className='pt-1' width={18} src="link.png" alt="" /></a></span>
+                            <span>Stone Paper Scissors </span><span><a target='blank' href="stone-paper-scissors-omega.vercel.app
+"><img className='pt-1' width={18} src="link.png" alt="" /></a></span>
                         </div>
                         <hr className='w-[70%] mb-4 text-center m-auto text-slate-400 bg-slate-700  border-slate-600 ' />
                         <div className='w-[95%] object-cover h-[auto] m-auto  '  >
