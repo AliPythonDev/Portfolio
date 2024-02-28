@@ -10,8 +10,7 @@ const Work = () => {
                 {/* <Link href={'https://greenmind-store-ecommerce.vercel.app/'}> */}
                     <div className='border-slate-700   border w-[330px] min-h-[300px] h-[505px] m-3 p-1 hover:bg-slate-900 duration-300 transition-all cursor-pointer  ' >
                         <div className='text-[17px] text-slate-300 p-4 pb-2 text-center flex justify-center gap-2 ' >
-                            <span>Stone Paper Scissors </span><span><a target='blank' href="stone-paper-scissors-omega.vercel.app
-"><img className='pt-1' width={18} src="link.png" alt="" /></a></span>
+                            <span>Stone Paper Scissors </span><span><a target='blank' href="stone-paper-scissors-omega.vercel.app"><img className='pt-1' width={18} src="link.png" alt="" /></a></span>
                         </div>
                         <hr className='w-[70%] mb-4 text-center m-auto text-slate-400 bg-slate-700  border-slate-600 ' />
                         <div className='w-[95%] object-cover h-[auto] m-auto  '  >
@@ -20,11 +19,16 @@ const Work = () => {
                         <div className='m-2 text-lg ml-4 text-slate-300 mt-8'>TECH USED </div>
                         <div className='flex flex-wrap w-[400px]' >
                             <div className=' text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' >
-                                <div className='rounded-md '>  <img src={"/js.png"} width={24} alt="" /></div> <div>{"JavaScript"}</div>
+                                <div className='rounded-md '>  <img src={"/nextjs.png"} width={24} alt="" /></div> <div>{"Next JS"}</div>
+                            </div>
+                            <div className=' text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' >
+                                <div className='rounded-md '>  <img src={"/mongodb.png"} width={24} alt="" /></div> <div>{"MongoDB"}</div>
                             </div>
                             <div className='text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' >
                                 <div className='rounded-md '>  <img src={"/vercel.png"} width={24} alt="" /></div> <div>{"Vercel"}</div>
                             </div>
+                            <div className='text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' >
+                                <div className='rounded-md '>  <img src={"/shadcn.png"} width={24} alt="" /></div> <div>{"Shadcn"}</div>
                             </div>
                         </div>
                     </div>
