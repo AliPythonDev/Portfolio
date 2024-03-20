@@ -17,15 +17,12 @@ const Work = () => {
       </div>
       <div className="flex flex-col  justify-center m-auto md:flex-row">
         {/* PROJECT 1 */}
-        {/* <Link href={'https://greenmind-store-ecommerce.vercel.app/'}> */}
+        {/* <Link href={'https://github.com/AliPythonDev'}> */}
         <div className="border-slate-700   border w-[330px] min-h-[300px] h-[505px] m-3 p-1 hover:bg-slate-900 duration-300 transition-all cursor-pointer  ">
           <div className="text-[17px] text-slate-300 p-4 pb-2 text-center flex justify-center gap-2 ">
             <span>Book Recommender System</span>
             <span>
-              <a
-                target="blank"
-                // href="https://greenmind-store-ecommerce.vercel.app/"
-              >
+              <a target="blank" href="https://github.com/AliPythonDev">
                 <img className="pt-1" width={18} src="link.png" alt="" />
               </a>
             </span>
