@@ -9,7 +9,7 @@ const GitHubCalendarComponent = () => {
         <GitHubCalendar
           username={"AliPythonDev"}
           blockSize={9}
-          colorScheme={theme === "dark" ? "dark" : "light"}
+          // colorScheme={theme === "dark" ? "dark" : "light"}
         />
       </Suspense>
     </div>
