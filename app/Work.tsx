@@ -20,13 +20,6 @@ const Work = () => {
                         <div className='m-2 text-lg ml-4 text-slate-300 mt-8'>TECH USED </div>
                         <div className='flex flex-wrap w-[400px]' >
                             <div className=' text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' >
-                                <div className='rounded-md '>  <img src={"/numpy.png"} width={24} alt="" /></div> <div>{"Numpy"}</div>
-                            </div>
-                            <div className=' text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' >
-                                <div className='rounded-md '>  <img src={"/pandas.png"} width={24} alt="" /></div> <div>{"Pandas"}</div>
-                                <div className=' text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' >
-                                    <div className='rounded-md '>  <img src={"/scikit-learn.png"} width={24} alt="" /></div> <div>{"scikit-learn"}</div>
-                                    <div className=' text-slate-300 cursor-pointer rounded-lg border-[0.5px] border-opacity-40  border-gray-400 w-[130px] flex justify-around gap-2 items-center m-3 flex-wrap hover:bg-slate-800 p-2 transition-all duration-200 ' ><div className='rounded-md '>  <img src={"/flask.png"} width={24} alt="" /></div> <div>{"Flask"}</div>
                             </div>
                         </div>
                     </div>
