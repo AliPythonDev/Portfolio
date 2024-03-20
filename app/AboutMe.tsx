@@ -33,7 +33,7 @@ const AboutMe = () => {
                                 <div className='text-slate-300 px-4 py-2 flex gap-2'> <div>Download Resume</div> <img src='/download.png' width={22} className='cursor-pointer' ></img> </div>
                                 <div className='m-auto  text-center items-center flex justify-center ' >
                         <a href="/My-Resume.png" target='blank' download={true} >
-                        <img className='h-[500px] w-[350px] ' src="/FinalCV.pdf" alt="" />
+                        <img className='h-[500px] w-[350px] ' src="/My-Resume.png" alt="" />
                         </a>
                     </div>
                             </div>

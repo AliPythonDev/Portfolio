@@ -69,10 +69,26 @@ const Skills = () => {
         {
             imgURL:"/postman.png",
             Name:"Postman"
-        },   
+        },
         {
-            imgURL:"/photoshop.png",
-            Name:"Photoshop"
+            imgURL: "/python.png",
+            Name:"Python"
+        },
+        {
+            imgURL:"/numpy.png",
+            Name:"Numpy"
+        },
+        {
+            imgURL:"/pandas.png",
+            Name:"Pandas"
+        },
+        {
+            imgURL:"/scikit-learn.png",
+            Name:"scikit-learn"
+        },
+        {
+            imgURL:"/flask.png",
+            Name:"Flask"
         },   
        
     ]
